@@ -1,10 +1,3 @@
-<head>
-    <style>
-        body {
-            font-family: monospace;
-        }
-    </style>
-</head>
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <p>🌱 I'm a systems engineering student, enthusiastic about software development and technology innovation.</p>
 
