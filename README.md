@@ -42,9 +42,7 @@
 <p>
     <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"
         height="30px" />
-
-    <img height="30px"
-        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px" />
 
 </p>
 
@@ -71,13 +69,10 @@
 </h2>
 <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30px">
-
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
         height="30px">
-
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
         height="30px">
-
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30px">
 </p>
 
