@@ -76,25 +76,18 @@
 
 <hr>
 
-<h2 align="center">About me</h2>
-<p align="center">
+<h2>About me</h2>
+<p>
     <a href="">
-        <img align="center"
-            src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             height="30" /></a>
     <a href="">
-        <img align="center"
-            src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
             height="30" /></a>
-</p>
-<p align="center">
-    <a href="" target="blank">
-        <img align="center"
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-            alt="azzar" height="30" /></a>
     <a href="">
-        <img align="center"
-            src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
             height="30" /></a>
-    <br>
+    <a href="">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+            height="30" /></a>
 </p>
