@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<p>🌱 I'm a systems engineering student, enthusiastic about software development and technology innovation.</p>
+<p align='center'>I'm a <strong>systems engineering</strong> student, enthusiastic about <strong>software</strong> development and technology <strong>innovation</strong>.</p>
 
 <hr>
 
