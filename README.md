@@ -9,7 +9,7 @@
   <a href="https://x.com/_santtiag">
     <img src="./src/twitter.gif" alt="X" height="80"/>
   </a>
-  <a href="https://www.linkedin.com/in/santiago-romero-l/">
+  <a href="https://www.linkedin.com/in/santtiago-romero-92887418a/">
     <img src="./src/linkedin.gif" alt="LinkedIn" height="80" />
   </a>
 </p>
